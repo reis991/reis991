@@ -6,7 +6,7 @@
 > I love to build cool stuffs on the internet!
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=r9is&background=090E1E&hide_border=true&border_radius=16&currStreakNum=E2E8F0&sideNums=74C7EC&sideLabels=E2E8F0&dates=B4BAC4&stroke=B4BAC4&currStreakLabel=F9E2AF&ring=F9E2AF&fire=F9E2AF" alt="GitHub Streak" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=r9is&background=1F1F1F&hide_border=true&border_radius=16&currStreakNum=D1D5DB&sideNums=9CA3AF&sideLabels=D1D5DB&dates=6B7280&stroke=6B7280&currStreakLabel=E5E7EB&ring=9CA3AF&fire=9CA3AF" alt="GitHub Streak" width="49%" />
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=r9is&bg_color=090E1E&hide_border=true&radius=16&hide_title=true&color=E2E8F0&title_color=74C7EC&line=74C7EC&point=E2E8F0&area_color=74C7EC&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=r9is&bg_color=1F1F1F&hide_border=true&radius=16&hide_title=true&color=D1D5DB&title_color=9CA3AF&line=9CA3AF&point=D1D5DB&area_color=9CA3AF&area=true)
